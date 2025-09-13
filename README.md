@@ -32,7 +32,7 @@ vercel deploy --prod
 ![GitHub stars](https://img.shields.io/github/stars/CodeDevZeron/Gemini-Api?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/CodeDevZeron/Gemini-Api?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/CodeDevZeron/Gemini-Api?style=for-the-badge)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=CodeDevZeron.Gemini-Api)
+
 
 ---
 
@@ -49,8 +49,7 @@ vercel deploy --prod
 
 ---
 
-## 🐍 Fun Animation
-![snake gif](https://github.com/CodeDevZeron/CodeDevZeron/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
