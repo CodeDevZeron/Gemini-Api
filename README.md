@@ -1,78 +1,45 @@
-# 🚀 Free2GPT API Wrapper
+# 🚀 Gemini API
 
-This is a simple **Flask-based API wrapper** for [Free2GPT](https://chat2.free2gpt.com),  
-hostable on **Vercel**. It lets you send messages via a simple GET request and receive an AI-generated reply in JSON format.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&width=435&lines=Welcome+to+Gemini+API!;Fast%2C+Free%2C+Deployable+on+Vercel;Made+with+%E2%9D%A4+by+DevZeron)](https://git.io/typing-svg)
 
 ---
 
 ## 🔧 Features
-- Simple REST API (GET request)
-- Automatically generates required `sign` and `timestamp`
-- Clean JSON response
-- Deployable on **Vercel** instantly
+- ✅ Easy REST API
+- ⚡ Super fast response
+- 🌍 Deployable on **Vercel**
+- 💡 Open-source & Free
 
 ---
 
-## 📡 Usage
-
-Once deployed on Vercel:
-
-```
-https://your-app.vercel.app/api/chat?text=Hello+Free2GPT
-```
-
-### ✅ Example Response
-```json
-{
-  "reply": "Hello! How can I help you today? I'm here to assist with a wide range of tasks...",
-  "api_by": "@DevZeron"
-}
-```
-
----
-
-## 📂 Project Structure
-```
-├── api
-│   └── chat.py       # Main API code
-├── requirements.txt  # Dependencies
-└── vercel.json       # Vercel configuration
-```
-
----
-
-## ⚙️ Installation & Deployment
-
-### 1. Clone the repo
+## 📦 Install
 ```bash
-git clone https://github.com/CodeDevZeron/Gemini-Api.git
+git clone https://github.com/CodeDevZeron/Gemini-Api
 cd Gemini-Api
-```
-
-### 2. Install dependencies
-```bash
 pip install -r requirements.txt
-```
-
-### 3. Run locally
-```bash
-python api/chat.py
-```
-
-### 4. Deploy on Vercel
-```bash
 vercel deploy --prod
 ```
+
+---
+
+## 📊 Repo Stats
+![GitHub stars](https://img.shields.io/github/stars/CodeDevZeron/Gemini-Api?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/CodeDevZeron/Gemini-Api?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/CodeDevZeron/Gemini-Api?style=for-the-badge)
 
 ---
 
 ## 👤 Developer Info
 - **Name:** DevZeron  
 - **Telegram:** [@DevZeron](https://t.me/DevZeron)  
-- **Telegram Channel:** [CodeDevZeron](https://t.me/CodeDevZeron)
+- **Channel:** [CodeDevZeron](https://t.me/CodeDevZeron)
 
 ---
 
-## ⭐ Credit
-This API wrapper is developed and maintained by **DevZeron**.  
-If you use it, please give proper credit 🙏
+## 📥 Resources
+[📥 Download Course](https://your-course-link.com)  
+
+
+---
+
+![Animated Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
