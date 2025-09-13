@@ -36,11 +36,11 @@ def chat_api():
         r = requests.post("https://chat2.free2gpt.com/api/generate", json=payload, headers=headers)
 
         try:
-            # যদি proper JSON আসে
+            #Proper JSON Api By @DevZeron
             data = r.json()
             reply = data.get("response") or data
         except Exception:
-            # যদি শুধু টেক্সট আসে
+            #Text Api By @DevZeron
             reply = r.text.strip()
 
         return jsonify({
