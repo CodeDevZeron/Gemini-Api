@@ -1,6 +1,6 @@
 # 💎 Gemini API
 
-[![DevZeron Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FF00FF&center=true&width=800&lines=💎+DevZeron;🔥+Python+|+API+|+Web+Dev;🌐+Telegram+@DevZeron)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Welcome+To+My+GitHub;Gemini+API+Source+Code;By+DevZeron)](https://git.io/typing-svg)
 
 ---
 
