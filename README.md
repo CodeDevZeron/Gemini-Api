@@ -1,6 +1,6 @@
-# 🚀 Gemini API
+# 💎 Gemini API
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=800&lines=🔥+Gemini+API;AI+powered+API+Wrapper;Made+with+%E2%9D%A4+by+DevZeron)](https://git.io/typing-svg)
+[![DevZeron Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=500&color=FF00FF&center=true&width=800&lines=💎+DevZeron;🔥+Python+|+API+|+Web+Dev;🌐+Telegram+@DevZeron)](https://git.io/typing-svg)
 
 ---
 
@@ -43,7 +43,8 @@ vercel deploy --prod
 
 ---
 
-## 📥 Resources  
+## 📥 Resources
+
 [🌐 Visit Telegram Channel](https://t.me/CodeDevZeron)
 
 ---
@@ -58,6 +59,7 @@ vercel deploy --prod
 
 ---
 
-## 🎬 Extras
+## 🎬 Extras Animations
 ![Matrix](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 ![Rainbow](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
+![Neon](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
